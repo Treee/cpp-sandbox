@@ -4,6 +4,7 @@
 **/x64/
 **/*.idb
 **/*.log
+**/*.tlog
 **/*.pdb
 
 # Prerequisites
